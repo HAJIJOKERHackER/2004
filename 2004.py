@@ -151,7 +151,7 @@ class Main:
 			print("\033[0;93m [+] TOTAL ID -> \033[0;91m%s\033[0;97m"%(len(self.id))) 
 			with ThreadPoolExecutor(max_workers=50) as coeg:
 				print("\n\033[1;32m [!] Ex(123456) FOR Old IDZ\033[1;37m ")
-				listpass = ['123456','12345678','1234567']
+				listpass = ['123456','12345678']
 				os.system("clear")
 				print(logo)
 				print("     \033[0;93m   𝐅𝐑𝐄𝐄 𝐌𝐎𝐃𝐄 𝐀𝐂𝐓𝐈𝐕𝐀𝐓𝐄")
@@ -216,7 +216,7 @@ class Main:
 			print("\033[0;93m [+] TOTAL ID -> \033[0;91m%s\033[0;97m"%(len(self.id))) 
 			with ThreadPoolExecutor(max_workers=30) as coeg:
 				print("\n\033[1;32m [!] Ex(123456) FOR Old IDZ\033[1;37m ")
-				listpass = ["123456","12345678","1234567']
+				listpass = ["123456","12345678"]
 				os.system("clear")
 				print(logo)
 				print("     \033[0;93m   𝐅𝐑𝐄𝐄 𝐌𝐎𝐃𝐄 𝐀𝐂𝐓𝐈𝐕𝐀𝐓𝐄")
